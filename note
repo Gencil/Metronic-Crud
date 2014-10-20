@@ -1,5 +1,0 @@
-- City [code(3), name(255)]
-- Port [id, nama(255), city.code]
-- wholesaler [code(5)[city.sequence], nama, address, phone, city.code]
-- counter [code(9)[city.wholesalersequence.1.sequence], name, address, phone, wholesaler.code]
-- member [id, city.code, nama, alamat, phone, fax, email, contact_person, contact_person_phone, jenis_selling(domestic, international), no_contract, masa_berlaku_start, masa_berlaku_end, pembayaran(auto_debit, transfer), costumer_code(10), account_number(10), npwp(20), nama_bank, no_rekening, discount,status(aktif, tidak), keterangan]
